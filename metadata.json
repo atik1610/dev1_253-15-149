@@ -1,0 +1,6 @@
+{
+  "name": "TenderBuilder - B2B Bid & Tender Proposal Management Suite",
+  "description": "Comprehensive enterprise tender preparation, BOQ financial breakdown, compliance matrix auditor, and automated bid qualification test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
